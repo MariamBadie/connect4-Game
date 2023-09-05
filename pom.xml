@@ -1,0 +1,11 @@
+<dependencies>
+    <!-- Other dependencies may be here -->
+
+    <dependency>
+        <groupId>com.github.javaparser</groupId>
+        <artifactId>javaparser-core</artifactId>
+        <version>INSERT_VERSION_HERE</version>
+    </dependency>
+
+    <!-- Other dependencies may be here -->
+</dependencies>
